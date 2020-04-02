@@ -1,0 +1,14 @@
+{
+  "name": "bice-vida-lab-test",
+  "version": "0.0.1",
+  "description": "Calc company policy cost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Sanhueza Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^6.1.3"
+  }
+}
